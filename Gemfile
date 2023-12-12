@@ -55,8 +55,14 @@ group :development do
 
   # Add speed badges [https://github.com/MiniProfiler/rack-mini-profiler]
   # gem "rack-mini-profiler"
-
+  gem 'rspec-rails'
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
+  # capybara is the library that allows you to interact with the browser using Ruby
+  gem 'capybara'
+  #selenium-webdriver
+  gem 'selenium-webdriver'
+  # chromedriver-helper
+  gem 'chromedriver-helper'
 end
 
