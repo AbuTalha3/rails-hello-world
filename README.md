@@ -9,9 +9,9 @@ Things you may want to cover:
 
 * `System dependencies`
 
-* Configuration
+* `Configuration`
 
-* Database creation
+* `Database creation`
 
 * Database initialization
 
